@@ -20,4 +20,4 @@ create_project_hash
 
 #description: project.css("div.project-thumbnail a img").attribute("src").value
 
-# location:
+# location: project.css("ul")
